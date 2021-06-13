@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+.maindiv
+{
+    width: 100%;
+    height: 3.5rem;
+    margin-top: 1.198rem;
+    display: flex;
+}
+
+.organicdiv
+{
+    width: 9.25rem;
+    height: 3.5rem;
+    margin: 0.034rem 20.563rem 11.063rem 0.594rem;
+    font-family: LibreBaskerville;
+    font-size: 2.625rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+}
+
+.navbar
+{
+    width: auto;
+    text-decoration: none;
+    display: flex;
+    list-style-type:none;
+}
+
+.home
+{
+    width: 2.688rem;
+  height: 1.313rem;
+  margin: 1.096rem 3.063rem 0.438rem 10rem;
+  font-family: LibreBaskerville;
+  font-size: 1rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.31;
+  letter-spacing: normal;
+  text-align: left;
+  color: #374b5c;
+}
+
+.products
+{
+    text-decoration: none;
+    width: 3.875rem;
+    height: 1.313rem;
+    margin: 1.096rem 3.375rem 0.438rem 2.791rem;
+    font-family: LibreBaskerville;
+    font-size: 1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+}
+
+.blog
+{
+    text-decoration: none;
+    width: 2rem;
+    height: 1.313rem;
+    margin: 1.096rem 3.313rem 0.438rem 3.375rem;
+    font-family: LibreBaskerville;
+    font-size: 1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+}
+
+.aboutus
+{
+    text-decoration: none;
+    width: 4.125rem;
+    height: 1.313rem;
+    margin: 1.096rem 2.875rem 0.438rem 3.313rem;
+    font-family: LibreBaskerville;
+    font-size: 1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+}
